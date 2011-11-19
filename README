@@ -1,1 +1,3 @@
-Enable Postgres HStore column serialization for your ActiveRecord / Rails 3.1+ project
+Enable Postgres HStore column serialization for your ActiveRecord / Rails 3.1+ project.
+
+Huge thanks and credit to https://github.com/softa/activerecord-postgres-hstore for code and inspiration.
