@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'active_record_hstore_serializer'
-  s.version       = '0.0.2'
+  s.version       = '0.0.3'
   s.date          = '2011-11-19'
   s.summary       = "Serialize attributes using HStore in ActiveRecord / Rails 3.1+"
   s.description   = "Leverage Postgres HStore for awesome attribute serialization."
