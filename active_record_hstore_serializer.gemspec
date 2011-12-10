@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.files         = [
     ".gitignore",
      "LICENSE",
-     "README",
+     "README.md",
      "lib/active_record_hstore_serializer.rb",
      "lib/active_record_hstore_serializer/hash.rb",
      "lib/active_record_hstore_serializer/string.rb",
